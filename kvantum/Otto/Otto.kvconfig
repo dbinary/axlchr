@@ -1,6 +1,6 @@
 [%General]
 author=jomada, based on KvAdaptaDark by Tsu Jan
-comment=Carl
+comment=Otto
 x11drag=menubar_and_primary_toolbar
 alt_mnemonic=true
 left_tabs=true
@@ -113,7 +113,7 @@ frame.left=4
 frame.right=4
 interior=true
 interior.element=button
-indicator.size=8
+indicator.size=12
 text.normal.color=#cfd8dc
 text.focus.color=white
 text.press.color=#cfd8dc

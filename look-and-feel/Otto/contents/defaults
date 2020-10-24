@@ -4,9 +4,6 @@ cursorTheme=breeze_cursors
 [kdeglobals][General]
 ColorScheme=Otto
 
-[kdeglobals][KDE]
-widgetStyle=kvantum
-
 [kdeglobals][Icons]
 Theme=McMojave-circle-blue-dark
 
