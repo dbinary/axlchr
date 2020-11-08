@@ -4,8 +4,8 @@ cursorTheme=breeze_cursors
 [kdeglobals][General]
 ColorScheme=Otto
 
-[kdeglobals][Icons]
-Theme=McMojave-circle-blue-dark
+[kdeglobals][KDE]
+widgetStyle=kvantum
 
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
@@ -13,12 +13,9 @@ LayoutName=org.kde.breeze.desktop
 [kwinrc][WindowSwitcher]
 LayoutName=preview_stack
 
-[Wallpaper]
-Image=Otto
-
 [kwinrc][org.kde.kdecoration2]
-library=org.kde.sierrabreeze
-theme=Brisa
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Otto
 
 [plasmarc][Theme]
 name=Otto

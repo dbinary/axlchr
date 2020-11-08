@@ -8,8 +8,8 @@ X-KDE-PluginInfo-Depends=plasma-desktop
 X-KDE-PluginInfo-Email=gicalucejo@gmail.com
 X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=LGPL
-X-KDE-PluginInfo-Name=jomada
-X-KDE-PluginInfo-Version=1.2
+X-KDE-PluginInfo-Name=Otto
+X-KDE-PluginInfo-Version=1.3
 X-KDE-PluginInfo-Website=
 X-Plasma-API=5.0
 comment=Otto theme
@@ -19,3 +19,6 @@ defaultFileSuffix=.png
 defaultHeight=1080
 defaultWallpaperTheme=
 defaultWidth=1920
+
+[ContrastEffect]
+enabled=false
